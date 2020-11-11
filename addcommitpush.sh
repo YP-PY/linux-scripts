@@ -1,5 +1,4 @@
 #!/bin/bash
-
 read
 git add .
 git commit -m "${REPLY}"
